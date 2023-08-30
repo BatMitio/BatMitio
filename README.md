@@ -18,8 +18,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Microservices and Cloud(.NET Core, Azure, Kubernetes)</b>
-  - [Authme](https://github.com/r46narok/AuthMe) - Solution for digital identity on the Internet
-  - [GeldMeister](https://github.com/r46narok/GeldMeister) - Dynamic bank statement parser
+  - [Authme](https://github.com/r46narok/AuthMe) - Digital identity confirmation application
+  - [GeldMeister](https://github.com/r46narok/GeldMeister) - Solution for user defined bank statements parsing
   - [Tagesdosis](https://github.com/batmitio/tagesdosis) - Online blog
   - [RestaurantManager](https://github.com/BatMitio/RestaurantManager) - My first ever Spring application
   - [BrownOrchid](https://github.com/BatMitio/BrownOrchid) - An inovative microservice architecture solution for saving money on the go
