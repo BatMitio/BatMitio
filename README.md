@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **finding a job in IT**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BatMitio](https://github.com/BatMitio)
+- 👨‍💻 All of my projects are available at [[https://github.com/DimitarKV]]
 
 - 📫 How to reach me **dimitar.k.vasilev.04@gmail.com**
 
@@ -20,10 +20,10 @@
 - <b>Microservices and Cloud(.NET Core, Azure, Kubernetes)</b>
   - [Authme](https://github.com/r46narok/AuthMe) - Digital identity confirmation application
   - [GeldMeister](https://github.com/r46narok/GeldMeister) - Solution for user defined bank statements parsing
-  - [Tagesdosis](https://github.com/batmitio/tagesdosis) - Online blog
-  - [RestaurantManager](https://github.com/BatMitio/RestaurantManager) - My first ever Spring application
-  - [BrownOrchid](https://github.com/BatMitio/BrownOrchid) - An inovative microservice architecture solution for saving money on the go
-  - [Vendor](https://github.com/BatMitio/Vendor) - My latest project about embedded systems working with a client-server application
+  - [Tagesdosis](https://github.com/DimitarKV/tagesdosis) - Online blog
+  - [RestaurantManager](https://github.com/DimitarKV/RestaurantManager) - My first ever Spring application
+  - [BrownOrchid](https://github.com/DimitarKV/BrownOrchid) - An inovative microservice architecture solution for saving money on the go
+  - [Vendor](https://github.com/DimitarKV/Vendor) - My latest project about embedded systems working with a client-server application
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dimitarkvasilev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dimitarkvasilev" height="30" width="40" /></a>
