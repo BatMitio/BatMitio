@@ -18,7 +18,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Microservices and Cloud(.NET Core, Azure, Kubernetes)</b>
-  - [CBL Robot]([https://github.com/DimitarKV/Vendor](https://github.com/DimitarKV/CBLEmbedded)) - My latest project about airport luggage sorting machine mockup
+  - [CBL Robot](https://github.com/DimitarKV/CBLEmbedded) - My latest project about airport luggage sorting machine mockup
   - [Vendor](https://github.com/DimitarKV/Vendor) - My graduation project about embedded systems working with a client-server application
   - [Authme](https://github.com/r46narok/AuthMe) - Digital identity confirmation application
   - [GeldMeister](https://github.com/r46narok/GeldMeister) - Solution for user defined bank statements parsing
