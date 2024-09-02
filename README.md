@@ -27,8 +27,8 @@
   - [BrownOrchid](https://github.com/DimitarKV/BrownOrchid) - An inovative microservice architecture solution for saving money on the go
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dimitarkvasilev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dimitarkvasilev" height="30" width="40" /></a>
-<a href="https://instagram.com/just_mitio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_mitio" height="30" width="40" /></a>
+<a href="https://x.com/vasilev_dimit" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/2048px-X_icon.svg.png" alt="dimitarkvasilev" height="30" width="40" /></a>
+<a href="https://instagram.com/d_vasilev__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_mitio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
